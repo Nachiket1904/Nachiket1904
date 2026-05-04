@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nachiket Kapure 👋
 
-<!--
-**Nachiket1904/Nachiket1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI/ML Engineer** with 2+ years of experience in building and deploying production-grade machine learning systems, LLM integrations, and RAG pipelines.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **AI / LLM & RAG**: LLM Inference, LangChain, FAISS, Vector Databases, Prompt Engineering, HuggingFace, ONNX, MCP.
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Computer Vision, Statistical Modeling.
+- **Programming**: Python (Advanced), JavaScript, PHP, R, SQL.
+- **Backend & APIs**: FastAPI, Flask, REST APIs, PostgreSQL, MySQL.
+- **Automation & Low-Code**: n8n, Make.com, Retool, Lovable, Claude Code.
+- **DevOps / Cloud**: Docker, Render, AWS, GCP, Git, CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- **AskMy Codebase**: RAG-powered developer tool for natural language codebase querying and PR review.
+- **Data Navigator**: LLM-powered full-stack platform for accessible data exploration and automated insights.
+- **Urban Farming Analysis**: Plant recommendation system developed during an Omdena collaboration.
+
+### 📈 Get in Touch
+- **LinkedIn**: [linkedin.com/in/NachiketKapure](https://linkedin.com/in/NachiketKapure)
+- **Email**: kapnachi1904@gmail.com
+- **Location**: Kalyan, Maharashtra, India
+
+---
+*Check out my repositories to see my latest work!*
